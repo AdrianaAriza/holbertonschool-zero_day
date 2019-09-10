@@ -1,0 +1,1 @@
+Como abrir, guardar, cortar lineas, pegar lineas, buscar dentro de un archivo, deshacer acciones y salir desde un archivo EMACS
