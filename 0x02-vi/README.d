@@ -1,1 +1,0 @@
-Principales comandos para vi
